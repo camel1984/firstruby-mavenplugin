@@ -13,6 +13,12 @@
             <version>1.0-beta-4</version>
             <scope>runtime</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.codehaus.plexus</groupId>
+            <artifactId>plexus-archiver</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
